@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 57d0a45d5b0bdf94895e7e4a5e72a823
+timeCreated: 1511035992
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blood_sprite_sheet__hq__by_razfoil-d56gkrk_0
+    21300002: blood_sprite_sheet__hq__by_razfoil-d56gkrk_1
+    21300004: blood_sprite_sheet__hq__by_razfoil-d56gkrk_2
+    21300006: blood_sprite_sheet__hq__by_razfoil-d56gkrk_3
+    21300008: blood_sprite_sheet__hq__by_razfoil-d56gkrk_4
+    21300010: blood_sprite_sheet__hq__by_razfoil-d56gkrk_5
+    21300012: blood_sprite_sheet__hq__by_razfoil-d56gkrk_6
+    21300014: blood_sprite_sheet__hq__by_razfoil-d56gkrk_7
+    21300016: blood_sprite_sheet__hq__by_razfoil-d56gkrk_8
+    21300018: blood_sprite_sheet__hq__by_razfoil-d56gkrk_9
+    21300020: blood_sprite_sheet__hq__by_razfoil-d56gkrk_10
+    21300022: blood_sprite_sheet__hq__by_razfoil-d56gkrk_11
+    21300024: blood_sprite_sheet__hq__by_razfoil-d56gkrk_12
+    21300026: blood_sprite_sheet__hq__by_razfoil-d56gkrk_13
+    21300028: blood_sprite_sheet__hq__by_razfoil-d56gkrk_14
+    21300030: blood_sprite_sheet__hq__by_razfoil-d56gkrk_15
+    21300032: blood_sprite_sheet__hq__by_razfoil-d56gkrk_16
+    21300034: blood_sprite_sheet__hq__by_razfoil-d56gkrk_17
+    21300036: blood_sprite_sheet__hq__by_razfoil-d56gkrk_18
+    21300038: blood_sprite_sheet__hq__by_razfoil-d56gkrk_19
+    21300040: blood_sprite_sheet__hq__by_razfoil-d56gkrk_20
+    21300042: blood_sprite_sheet__hq__by_razfoil-d56gkrk_21
+    21300044: blood_sprite_sheet__hq__by_razfoil-d56gkrk_22
+    21300046: blood_sprite_sheet__hq__by_razfoil-d56gkrk_23
+    21300048: blood_sprite_sheet__hq__by_razfoil-d56gkrk_24
+    21300050: blood_sprite_sheet__hq__by_razfoil-d56gkrk_25
+    21300052: blood_sprite_sheet__hq__by_razfoil-d56gkrk_26
+    21300054: blood_sprite_sheet__hq__by_razfoil-d56gkrk_27
+    21300056: blood_sprite_sheet__hq__by_razfoil-d56gkrk_28
+    21300058: blood_sprite_sheet__hq__by_razfoil-d56gkrk_29
+    21300060: blood_sprite_sheet__hq__by_razfoil-d56gkrk_30
+    21300062: blood_sprite_sheet__hq__by_razfoil-d56gkrk_31
+    21300064: blood_sprite_sheet__hq__by_razfoil-d56gkrk_32
+    21300066: blood_sprite_sheet__hq__by_razfoil-d56gkrk_33
+    21300068: blood_sprite_sheet__hq__by_razfoil-d56gkrk_34
+    21300070: blood_sprite_sheet__hq__by_razfoil-d56gkrk_35
+    21300072: blood_sprite_sheet__hq__by_razfoil-d56gkrk_36
+    21300074: blood_sprite_sheet__hq__by_razfoil-d56gkrk_37
+    21300076: blood_sprite_sheet__hq__by_razfoil-d56gkrk_38
+    21300078: blood_sprite_sheet__hq__by_razfoil-d56gkrk_39
+    21300080: blood_sprite_sheet__hq__by_razfoil-d56gkrk_40
+    21300082: blood_sprite_sheet__hq__by_razfoil-d56gkrk_41
+    21300084: blood_sprite_sheet__hq__by_razfoil-d56gkrk_42
+    21300086: blood_sprite_sheet__hq__by_razfoil-d56gkrk_43
+    21300088: blood_sprite_sheet__hq__by_razfoil-d56gkrk_44
+    21300090: blood_sprite_sheet__hq__by_razfoil-d56gkrk_45
+    21300092: blood_sprite_sheet__hq__by_razfoil-d56gkrk_46
+    21300094: blood_sprite_sheet__hq__by_razfoil-d56gkrk_47
+    21300096: blood_sprite_sheet__hq__by_razfoil-d56gkrk_48
+    21300098: blood_sprite_sheet__hq__by_razfoil-d56gkrk_49
+    21300100: blood_sprite_sheet__hq__by_razfoil-d56gkrk_50
+    21300102: blood_sprite_sheet__hq__by_razfoil-d56gkrk_51
+    21300104: blood_sprite_sheet__hq__by_razfoil-d56gkrk_52
+    21300106: blood_sprite_sheet__hq__by_razfoil-d56gkrk_53
+    21300108: blood_sprite_sheet__hq__by_razfoil-d56gkrk_54
+    21300110: blood_sprite_sheet__hq__by_razfoil-d56gkrk_55
+    21300112: blood_sprite_sheet__hq__by_razfoil-d56gkrk_56
+    21300114: blood_sprite_sheet__hq__by_razfoil-d56gkrk_57
+    21300116: blood_sprite_sheet__hq__by_razfoil-d56gkrk_58
+    21300118: blood_sprite_sheet__hq__by_razfoil-d56gkrk_59
+    21300120: blood_sprite_sheet__hq__by_razfoil-d56gkrk_60
+    21300122: blood_sprite_sheet__hq__by_razfoil-d56gkrk_61
+    21300124: blood_sprite_sheet__hq__by_razfoil-d56gkrk_62
+    21300126: blood_sprite_sheet__hq__by_razfoil-d56gkrk_63
+    21300128: blood_sprite_sheet__hq__by_razfoil-d56gkrk_64
+    21300130: blood_sprite_sheet__hq__by_razfoil-d56gkrk_65
+    21300132: blood_sprite_sheet__hq__by_razfoil-d56gkrk_66
+    21300134: blood_sprite_sheet__hq__by_razfoil-d56gkrk_67
+    21300136: blood_sprite_sheet__hq__by_razfoil-d56gkrk_68
+    21300138: blood_sprite_sheet__hq__by_razfoil-d56gkrk_69
+    21300140: blood_sprite_sheet__hq__by_razfoil-d56gkrk_70
+    21300142: blood_sprite_sheet__hq__by_razfoil-d56gkrk_71
+    21300144: blood_sprite_sheet__hq__by_razfoil-d56gkrk_72
+    21300146: blood_sprite_sheet__hq__by_razfoil-d56gkrk_73
+    21300148: blood_sprite_sheet__hq__by_razfoil-d56gkrk_74
+    21300150: blood_sprite_sheet__hq__by_razfoil-d56gkrk_75
+    21300152: blood_sprite_sheet__hq__by_razfoil-d56gkrk_76
+    21300154: blood_sprite_sheet__hq__by_razfoil-d56gkrk_77
+    21300156: blood_sprite_sheet__hq__by_razfoil-d56gkrk_78
+    21300158: blood_sprite_sheet__hq__by_razfoil-d56gkrk_79
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 811
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 784
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 813
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 768
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 811
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 753
+        width: 198
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 811
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_7
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 661
+        width: 184
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 481
+        width: 387
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 661
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 632
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 661
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 659
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 632
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_14
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 659
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 458
+        width: 225
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 608
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 480
+        width: 185
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 627
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 568
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 572
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 473
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_22
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 510
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_23
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 508
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_24
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 506
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 466
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_26
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 462
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_27
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 461
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 302
+        width: 156
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 358
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 437
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 301
+        width: 240
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 430
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_33
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 288
+        width: 209
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_34
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 358
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_35
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 397
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 396
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_37
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 395
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 356
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_39
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 347
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_40
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 338
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_41
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 314
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_42
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 342
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_43
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 312
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_44
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 309
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 307
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 291
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 272
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 272
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 290
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 207
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_51
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 207
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_52
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 207
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_53
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 259
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 254
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 178
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 178
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_57
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 178
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_59
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 193
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 205
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_61
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 205
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 172
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_63
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 192
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_64
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 188
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_65
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 184
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 169
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 153
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_69
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_70
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 27
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 56
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 27
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_75
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 56
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_76
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 56
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 54
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 54
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_sprite_sheet__hq__by_razfoil-d56gkrk_79
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 54
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

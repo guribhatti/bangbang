@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BusterBullet
+  - Tank
+  - Bullet
+  - man
+  - explosion
+  - powerup
+  - fire
+  - saveworld
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sand
+    uniqueID: 714024397
+    locked: 0
+  - name: Road
+    uniqueID: 2381229443
+    locked: 0
+  - name: Blood
+    uniqueID: 2196435049
+    locked: 0
+  - name: man
+    uniqueID: 702027631
+    locked: 0
+  - name: clay
+    uniqueID: 1831795581
+    locked: 0
+  - name: bump
+    uniqueID: 274224525
+    locked: 0
+  - name: tank
+    uniqueID: 3935451745
+    locked: 0
+  - name: water
+    uniqueID: 2395465765
+    locked: 0
+  - name: cars
+    uniqueID: 137925183
+    locked: 0
+  - name: mons
+    uniqueID: 3982333371
+    locked: 0
+  - name: bushes
+    uniqueID: 1799098013
+    locked: 0
+  - name: mountain
+    uniqueID: 43060663
+    locked: 0
+  - name: HOUSE
+    uniqueID: 4118754417
+    locked: 0
+  - name: Bullet
+    uniqueID: 3444572319
+    locked: 0
+  - name: explosion
+    uniqueID: 3754853107
+    locked: 0
+  - name: powerup
+    uniqueID: 2036474629
+    locked: 0
+  - name: fire
+    uniqueID: 140707365
+    locked: 0
+  - name: saveworld
+    uniqueID: 84905915
+    locked: 0

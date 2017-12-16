@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="SceneChnage">
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+		</type>
+	</assembly>
+</linker>
